@@ -5,6 +5,7 @@ Transform any YouTube video into clear, structured notes powered by Google's Gem
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/youtube-play.png" alt="YouTube Transcription Assistant Logo">
 </p>
+
 ---
 
 ## 🚀 Features
