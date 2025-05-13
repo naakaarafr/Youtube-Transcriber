@@ -2,8 +2,9 @@
 
 Transform any YouTube video into clear, structured notes powered by Google's Gemini AI. This tool extracts the transcript from a video and generates AI-assisted summaries, bullet points, and takeaways—perfect for students, content creators, and researchers.
 
-![YouTube Transcription Assistant Screenshot](https://img.icons8.com/color/96/000000/youtube-play.png)
-
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/youtube-play.png" alt="YouTube Transcription Assistant Logo">
+</p>
 ---
 
 ## 🚀 Features
