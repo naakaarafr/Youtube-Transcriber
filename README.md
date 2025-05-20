@@ -63,8 +63,8 @@ Speaker 2: For example, AI tools can now write business plans in minutes...
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/youtube-transcriber.git
-cd youtube-transcriber
+git clone https://github.com/naakaarafr/Youtube-Transcription-Assistant.git
+cd Youtube-Transcription-Assistant
 ```
 
 2. **Install dependencies**
